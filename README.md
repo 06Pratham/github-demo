@@ -1,3 +1,6 @@
 # github-demo
 this is my first repository
-Author - Pratham
+Author - Pratham singh
+<br>
+college: poornima
+
